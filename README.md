@@ -1,6 +1,6 @@
 # <center> Hi there, I'm Jacob</center>
 
-# [![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/VintageSalmon) [![GitHub](https://img.shields.io/badge/GitHub-JacobNiebling-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JacobNiebling) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/error503)
+# [![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_Jacob_Dev) [![GitHub](https://img.shields.io/badge/GitHub-JacobNiebling-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JacobNiebling) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/error503)
 
 
 <center>Versatile full-stack engineer with 11+ years of web development (HTML5/CSS3) and hands-on experience across C++, C#, Java, Python, VB.NET, and ASM, plus a background in cybersecurity. I adapt quickly to new stacks and ship dependable, well structured and secure code.</center>
