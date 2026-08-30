@@ -69,7 +69,3 @@
     </td>
   </tr>
 </table>
-
-# [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JacobNiebling&rank_icon=github&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=JacobNiebling&rank_icon=github&show_icons=true&include_all_commits=true) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JacobNiebling&langs_count=6)](https://github-stats-extended.vercel.app/api/top-langs?username=JacobNiebling&langs_count=6)
-
-# [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JacobNiebling&repo=JacobNiebling%2FVeyra-Text-and-Video-Chat-System&show_owner=true&description_lines_count=3&theme=default)](https://github.com/JacobNiebling/Veyra-Text-and-Video-Chat-System) [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JacobNiebling&repo=JacobNiebling%2FGDD_STUDIO&show_owner=true&description_lines_count=3&theme=default)](https://github.com/JacobNiebling/GDD_STUDIO)
